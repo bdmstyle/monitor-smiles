@@ -1,0 +1,8 @@
+---
+spring:
+  profiles: default
+  data.mongodb:
+    uri: mongodb://localhost:45967/admin
+
+name: default-YAML
+environment: default
